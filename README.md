@@ -8,11 +8,8 @@ A full-stack web application that leverages Google's Gemini AI to generate profe
 ![Email Response Generator Screenshot](Resources/Screenshot%20from%202025-07-02%2018-16-52.png)
 
 ### Video Demo
-https://github.com/user-attachments/assets/your-video-id-here
+https://youtu.be/YMxtUCDyShw
 
-*Watch the full demo video: [AiEmailResponseGenerator.webm](Resources/AiEmailResponseGenerator.webm)*
-
-> **Note**: If the video doesn't play directly in GitHub, you can download it from the Resources folder to view locally.
 
 ## 🚀 Features
 
@@ -58,7 +55,7 @@ Before running this application, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ManishPatidar806/AI-Email_Response_Generator.git
 cd EmailResponseGenerator
 ```
 
@@ -252,4 +249,3 @@ If you encounter any issues or have questions, please:
 
 ---
 
-**Made with ❤️ by [Your Name]**
